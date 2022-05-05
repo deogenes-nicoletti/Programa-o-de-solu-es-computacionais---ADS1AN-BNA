@@ -20,7 +20,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 
 ## Output Results
 
-Question 1
+Question 1<br />
 [2, 2, 3, 4, 5, 8, 9, 10, 10, 11, 11, 12, 12, 16, 18, 18, 21, 21, 23, 25]
 
 
